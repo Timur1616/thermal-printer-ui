@@ -102,7 +102,6 @@ The project documentation and UI elements (where applicable) support:
 
 ---
 
----
 
 # Проект "Термопринтер UI"
 
