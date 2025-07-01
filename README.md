@@ -100,7 +100,6 @@ The project documentation and UI elements (where applicable) support:
 
 **Timur1616**
 
----
 
 
 # Проект "Термопринтер UI"
