@@ -31,7 +31,7 @@ Follow these steps to get your Thermal Printer UI up and running.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Timur1616/thermal-printer-ui.git](https://github.com/Timur1616/thermal-printer-ui.git)
+    git clone https://github.com/Timur1616/thermal-printer-ui.git
     cd thermal-printer-ui
     ```
 
@@ -126,7 +126,7 @@ Follow these steps to get your Thermal Printer UI up and running.
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/Timur1616/thermal-printer-ui.git](https://github.com/Timur1616/thermal-printer-ui.git)
+    git clone https://github.com/Timur1616/thermal-printer-ui.git
     cd thermal-printer-ui
     ```
 
