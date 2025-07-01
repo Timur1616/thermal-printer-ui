@@ -81,7 +81,6 @@ Follow these steps to get your Thermal Printer UI up and running.
 ## 💡 TODO Ideas
 
 * [ ] COM port auto-detection.
-* [ ] RGB LED control from GUI.
 * [ ] Language selection within the UI.
 * [ ] Save & export last prints.
 * [ ] Configurable printer width from the GUI.
@@ -177,7 +176,6 @@ Follow these steps to get your Thermal Printer UI up and running.
 ## 💡 Идеи для TODO
 
 * [ ] Автоматическое определение COM-порта.
-* [ ] Управление RGB LED из GUI.
 * [ ] Выбор языка в интерфейсе.
 * [ ] Сохранение и экспорт последних распечаток.
 * [ ] Настраиваемая ширина принтера из GUI.
