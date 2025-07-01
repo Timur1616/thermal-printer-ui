@@ -88,14 +88,6 @@ Follow these steps to get your Thermal Printer UI up and running.
 
 ---
 
-## 🌐 Languages
-
-The project documentation and UI elements (where applicable) support:
-* 🇬🇧 English
-* 🇷🇺 Русский
-
----
-
 ## 👤 Author
 
 **Timur1616**
@@ -192,13 +184,6 @@ The project documentation and UI elements (where applicable) support:
 
 ---
 
-## 🌐 Языки
-
-Документация проекта и элементы интерфейса (где применимо) подходят:
-* 🇬🇧 English
-* 🇷🇺 Русский
-
----
 
 ## 👤 Автор
 
