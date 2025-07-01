@@ -37,9 +37,9 @@ Follow these steps to get your Thermal Printer UI up and running.
 
 2.  **Install dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip install Pillow
+    pip install pyserial
     ```
-    (If `requirements.txt` is not present, you can install them manually: `pip install Pillow pyserial`)
 
 ### 🏃 How to Run
 
@@ -144,9 +144,9 @@ The project documentation and UI elements (where applicable) support:
 
 2.  **Встановіть залежності:**
     ```bash
-    pip install -r requirements.txt
+    pip install Pillow
+    pip install pyserial
     ```
-    (Якщо `requirements.txt` відсутній, ви можете встановити їх вручну: `pip install Pillow pyserial`)
 
 ### 🏃 Як Запустити
 
@@ -251,9 +251,9 @@ The project documentation and UI elements (where applicable) support:
 
 2.  **Установите зависимости:**
     ```bash
-    pip install -r requirements.txt
+    pip install Pillow
+    pip install pyserial
     ```
-    (Если `requirements.txt` отсутствует, вы можете установить их вручную: `pip install Pillow pyserial`)
 
 ### 🏃 Как запустить
 
